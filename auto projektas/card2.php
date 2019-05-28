@@ -11,7 +11,7 @@
 
 <?php
 
-        $link = mysqli_connect("localhost", "jussim_auto", "Autodb123", "jussim_autoData");
+        $link = mysqli_connect("localhost", "x", "x", "x");
 
 
         if($link === false){

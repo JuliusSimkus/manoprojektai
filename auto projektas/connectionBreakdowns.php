@@ -1,9 +1,9 @@
 <?php
 
-   define("DB_SERVER", "localhost");
-   define("DB_USER", "jussim_auto");
-   define("DB_PASSWORD", "Autodb123");
-   define("DB_NAME", "jussim_autoData");
+   define("DB_SERVER", "x");
+   define("DB_USER", "x");
+   define("DB_PASSWORD", "x");
+   define("DB_NAME", "x");
 
 $mysqli = new mysqli(DB_SERVER, DB_USER, DB_PASSWORD, DB_NAME);
 

@@ -48,9 +48,9 @@
             $certainEmail = $_SESSION['email'];
 
 
-        $servername = "localhost";
-        $username = "jussim_auto";
-        $password = "Autodb123";
+        $servername = "x";
+        $username = "x";
+        $password = "x";
         $dbname = "jussim_autoData";
 
         // Create connection
